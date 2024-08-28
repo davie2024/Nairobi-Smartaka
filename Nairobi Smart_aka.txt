@@ -1,0 +1,93 @@
+Nairobi Smart:aka
+              Transforming Waste into Wealth
+David Owino - project founder 
+ 27th Aug 2024
+
+                        Problem Synopsis
+
+WasteManagement Crisis: Nairobi produces thousands of tons of rubbish per day, much of it is disposed of incorrectly, endangering human health and the environment.
+Jobless Rate: Nairobi has a high jobless rate, particularly for young people, and little work prospects in the official sector.
+
+                                  Solution
+
+Digital platform SmartWaste: Linking garbage generators, haulers, recyclers, and governmental organizations.
+gives real-time tracking of the procedures for recycling, trash management, and collection.
+allows for the development of jobs by formalizing the unorganized waste collection industry and opening up new possibilities for recycling and waste management.
+
+
+               Market Opportunity
+Target Market:
+Nairobi residents, businesses, and government agencies.
+Informal waste collectors who can be integrated into the formal system.
+Market Size:
+Nairobi's waste management market is substantial, with potential revenue from recycling, waste-to-energy, and composting.
+Growth Potential:
+With urbanization and population growth, the demand for efficient waste management solutions is rising.
+
+
+                      Business Model
+Revenue streams: User (residential and business) subscription fees for premium services.
+service charges from recyclers and garbage collection firms.
+contracts with the government, energy corporations, and recycling companies.
+Services for data analytics and advertising.
+Cost Organization:
+creation and upkeep of platforms.
+advertising and acquiring new users.
+Logistics and operations.
+
+
+         What makes the greenika initiative different?
+All over the world, nations are struggling to achieve the seventeen 2030 sustainable development goals. Goal number 11, 12 and 13 majorly focus on sustainable environment and as explained above, plastic and e- wastes are the leading environmental pollutants. Greenika initiative stands to be unique because it aims at eradicating or rather reducing plastic and e - waste pollution through recycling so as to push for a sustainable city and environment as a whole.
+
+
+                          Go-to-Market Strategy
+
+Initial Launch:
+It will Start with a pilot program in select neighborhoods in Nairobi.
+Partner with local waste management companies and community groups
+The  initiative aims at full utilization of online platforms; X, facebook, instagram, pinterest, tiktok and a website where sales and marketing will be adequately done
+
+Scaling:
+It will Expand to other parts of Nairobi and eventually to other cities in Kenya.
+
+
+.
+
+
+                                 Traction 
+
+KPI’s
+Key Performance Indicator, are quantifiable measurements used by businesses to gauge their overall performance. 
+
+
+
+
+
+Technology Stack
+Technology Stack
+Front-End: React (for the web dashboard)
+Mobile App: Flutter (for the mobile app)
+Back-End: Python with Flask
+Database: SQLite (for simplicity and ease of setup)
+Real-Time Updates: Flask-SocketIO
+Payment Integration: A mock API (can be replaced with a real payment gateway later)
+
+
+
+Timeline and Milestones
+Timeline and Milestones
+Phase 1: (Months 1-3) Platform development and initial testing.
+Phase 2: (Months 4-6) Pilot launch in select neighborhoods.
+Phase 3: (Months 7-9) Full launch across Nairobi.
+Phase 4: (Months 10-12) Expansion to other cities.
+
+
+Call to Action
+What We Need: Seeking 200 dollars in funding to complete development, launch the platform, and scale operations.
+Partnership Opportunities: Open to partnerships with waste management companies, government agencies, and NGOs.
+Contact Information: davidochieng128@gmail.com
+                                       0794155220 
+                                       davidochieng128@outlook.com
+
+
+
